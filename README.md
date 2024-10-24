@@ -20,27 +20,31 @@ Java Collections: To manage questions and options.
 
 Clone the repository:
 
-git clone https://github.com/your-username/QuizApp
+`git clone https://github.com/Jadhavsakshi7887/QuizApp`
 
 Navigate to the project directory:
 
-cd QuizApp
+`cd QuizApp`
 
 Build the project using Maven:
-mvn clean install
+`mvn clean install`
 
 Run the application:
 
-mvn spring-boot:run
+`mvn spring-boot:run`
 
 Follow the console prompts to answer the quiz questions.
 
 Future Enhancements
 
 Add a larger set of questions stored in a database.
+
 Implement a web-based version using Spring MVC.
+
 Save user scores and quiz history to a database.
+
 Add user authentication for personalized quiz experiences.
+
 Create a REST API to manage questions and scores.
 
 Dependencies
