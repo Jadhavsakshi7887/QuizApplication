@@ -27,6 +27,7 @@ Navigate to the project directory:
 `cd QuizApp`
 
 Build the project using Maven:
+
 `mvn clean install`
 
 Run the application:
@@ -47,15 +48,20 @@ Add user authentication for personalized quiz experiences.
 
 Create a REST API to manage questions and scores.
 
+
 Dependencies
 
 Spring Boot Starter: Core Spring Boot functionality.
+
 Maven: For project building and dependency management.
+
 Contribution
 Feel free to fork this repository and contribute by submitting pull requests. Suggestions and bug reports are welcome!
 
 License
+
 This project is licensed under the MIT License.
 
 Contact
+
 If you have any questions or feedback, please contact me at sakshijadhav788757@gmail.com
