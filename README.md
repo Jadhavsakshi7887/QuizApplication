@@ -24,7 +24,7 @@ Java Collections: To manage questions and options.
 
 **Navigate to the project directory:**
 
-`cd QuizApp\(1\)`
+`cd QuizApp(1)`
 
 **Build the project using Maven:**
 
