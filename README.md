@@ -18,25 +18,25 @@ Java: The core language for implementing business logic.
 Maven: Used for dependency management and project build.
 Java Collections: To manage questions and options.
 
-Clone the repository:
+**Clone the repository:**
 
-`git clone https://github.com/Jadhavsakshi7887/QuizApp`
+`git clone https://github.com/Jadhavsakshi7887/QuizApplication`
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 
 `cd QuizApp`
 
-Build the project using Maven:
+**Build the project using Maven:**
 
 `mvn clean install`
 
-Run the application:
+**Run the application:**
 
 `mvn spring-boot:run`
 
 Follow the console prompts to answer the quiz questions.
 
-Future Enhancements
+**Future Enhancements**
 
 Add a larger set of questions stored in a database.
 
@@ -49,13 +49,13 @@ Add user authentication for personalized quiz experiences.
 Create a REST API to manage questions and scores.
 
 
-Dependencies
+**Dependencies**
 
 Spring Boot Starter: Core Spring Boot functionality.
 
 Maven: For project building and dependency management.
 
-Contribution
+**Contribution**
 Feel free to fork this repository and contribute by submitting pull requests. Suggestions and bug reports are welcome!
 
 License
