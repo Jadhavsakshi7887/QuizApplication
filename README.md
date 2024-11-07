@@ -1,4 +1,4 @@
-# QuizApplication
+ # QuizApplication
 
 This is a simple console-based Quiz Application built using Java
 This project is a Quiz Application developed using Spring Boot. 
@@ -24,7 +24,7 @@ Java Collections: To manage questions and options.
 
 **Navigate to the project directory:**
 
-`cd QuizApp(1)`
+`cd QuizApp`
 
 **Build the project using Maven:**
 
